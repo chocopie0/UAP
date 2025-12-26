@@ -1,0 +1,21 @@
+# Dataset & file besar
+*.zip
+*.rar
+*.7z
+*.csv
+*.h5
+*.pkl
+*.pt
+*.npy
+
+dataset/
+data/
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# HuggingFace / NLP models
+bert/
+distilbert/
