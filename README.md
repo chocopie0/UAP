@@ -26,7 +26,7 @@ Proyek ini dibuat sebagai bagian dari **tugas / penelitian Machine Learning** de
 Dataset yang digunakan berupa **teks lowongan pekerjaan** dalam bentuk spreadsheet.
 
 🔗 **Link Dataset:**  
-https://drive.google.com/file/d/1KEHcM81u5Iz6xbmZLWljiBAS_-gAMtUL/view?usp=drive_link
+[https://drive.google.com/file/d/1KEHcM81u5Iz6xbmZLWljiBAS_-gAMtUL/view?usp=drive_link]
 
 ### Informasi Dataset:
 - **Tipe Data:** Teks (judul & deskripsi lowongan)
